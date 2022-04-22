@@ -10,11 +10,17 @@ I am a Mobile Application Developer. My major experience is in iOS Swift5, Swift
 *   ✉️  You can contact me at [vinealviji@gmail.com](mailto:vinealviji@gmail.com)
 *   🚀  I'm currently working on [Nectar: Shop and Collect Points](http://apps.apple.com/gb/app/nectar-offers-and-rewards/id385266473)
 *   🧠  I'm learning Swift UI
-*   🤝  I'm open to collaborating on Projects using SwiftUI, Swift5 or Flutter.### Skills<p align="left">
-                                <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
+*   🤝  I'm open to collaborating on Projects using SwiftUI, Swift5 or Flutter.
+
+### Skills
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679349-fc64dc35-0bfd-4a57-bb98-fdaaad04668d.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/development" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679364-3a9ca653-fbf0-42dd-97b2-437ff31aa116.svg" width="36" height="36" alt="Flutter" /></a>
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679764-f6ee3186-6480-4e60-8928-20a0a5339cc0.svg" width="36" height="36" alt="CircleCI" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
                     
 ### Socials
  <p align="left">
