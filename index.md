@@ -19,7 +19,7 @@ I am a Mobile Application Developer. My major experience is in iOS Swift5, Swift
 <a href="https://flutter.dev/development" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679364-3a9ca653-fbf0-42dd-97b2-437ff31aa116.svg" width="36" height="36" alt="Flutter" /></a>
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679764-f6ee3186-6480-4e60-8928-20a0a5339cc0.svg" width="36" height="36" alt="CircleCI" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
 
                     
 ### Socials
