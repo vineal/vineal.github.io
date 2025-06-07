@@ -21,7 +21,7 @@ I am a Mobile Application Developer. My major experience is in iOS Swift5, Swift
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/17673476/164679764-f6ee3186-6480-4e60-8928-20a0a5339cc0.svg" width="36" height="36" alt="CircleCI" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://bitrise.io/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/5db35de024bb983af1b4e151/5e05f06777d741b88a37f65d_bitrise-icon.svg" width="36" height="36" alt="Bitrise" style="filter: invert(18%) sepia(91%) saturate(5241%) hue-rotate(267deg) brightness(89%) contrast(95%);"/></a></p>
+<a href="https://bitrise.io/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/5db35de024bb983af1b4e151/5e05f06777d741b88a37f65d_bitrise-icon.svg" width="36" height="36" alt="Bitrise" style="background-color: purple;"/></a></p>
 
                     
 ### Socials
