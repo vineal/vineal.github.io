@@ -4,9 +4,9 @@ Hi 👋 My name is Vineal Viji Varghese
 Mobile app developer
 --------------------
 
-I am a Mobile Application Developer. My major experience is in iOS Swift5, SwiftUI and objective-C. I also make Kotlin Android and Flutter cross platform Applications.
+I am a Mobile Application Developer. My major experience is in iOS Swift, SwiftUI and Objective-C. I also make Kotlin Android and Flutter cross-platform Applications.
 
-*   🌍  I'm based in London
+*   🌍  I'm based in Coalville, Leicestershire.
 *   ✉️  You can contact me at [vinealviji@gmail.com](mailto:vinealviji@gmail.com)
 *   🚀  I'm currently working on [Gymshark: Shop Gym Clothes](https://apps.apple.com/gb/app/gymshark-shop-gym-clothes/id1139155460)
 *   🚀  Previously worked on [Nectar: Shop and Collect Points](http://apps.apple.com/gb/app/nectar-offers-and-rewards/id385266473)
